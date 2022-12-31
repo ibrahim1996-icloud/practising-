@@ -153,13 +153,15 @@ text-align:center;
     border: 1px solid #009688;
     background: transparent;
     color: whitesmoke;
-    cursor: pointer;
-    position: relative;
     overflow: hidden;
-    transition: 0.5s;
+    
     display:inline-block;
      text-underline-offset: 0 ;
+     font-size: medium;
+
     }
+    
+    
 
 .cal{  
     width: 100%;
@@ -196,11 +198,7 @@ text-align:center;
     border: 1px solid #009688;
     background: transparent;
     color: whitesmoke;
-    cursor: pointer;
-    position: relative;
-    overflow: hidden;
-    transition: 0.5s;
-    display:inline-block;
+   display:inline-block;
      text-underline-offset: 0 ;
 
     }
